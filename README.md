@@ -2,6 +2,7 @@
 
 Personalized mental resources all in one website: habit tracker, journal space, chatbot, and logs and analytics!
 
+
 **Here's how to run the dashboard:**
 
 cd into streamlit-dash,
