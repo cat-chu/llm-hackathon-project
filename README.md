@@ -1,4 +1,4 @@
-# Welcome to DailyFi!
+# Welcome to DailyFi
 
 Personalized mental resources all in one website: with a habit tracker, journal space, chatbot tailored to your entries and emotions, with logs and reports!
 
