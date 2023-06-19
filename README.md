@@ -1,4 +1,4 @@
-###Welcome to DailyFi!
+### Welcome to DailyFi!
 
 Here's how to run the dashboard:
 
