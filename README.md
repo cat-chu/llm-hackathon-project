@@ -1,6 +1,6 @@
 # Welcome to DailyFi
 
-Personalized mental resources all in one website: with a habit tracker, journal space, chatbot tailored to your entries and emotions, with logs and reports!
+Personalized mental resources all in one website: a habit tracker, journal space, chatbot, and logs and analytics!
 
 **Here's how to run the dashboard:**
 
