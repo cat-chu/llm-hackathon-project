@@ -1,0 +1,107 @@
+body {
+  background-color: pink;
+}
+
+div#root {
+  background-color: lightpink;
+}
+
+div.stApp {
+  background-color: rgb(255, 255, 255);
+}
+
+div.stButton button {
+  background-color: #d2d9e2;
+  color: rgb(98, 75, 100);
+}
+
+div.stTextInput input {
+  background-color: #d2d9e2;
+  border-color: rgb(98, 75, 100);
+  color: rgb(98, 75, 100);
+  font-family: 'Bradley Hand'; 
+}
+
+div.stTextArea textarea {
+  background-color: #d2d9e2;
+  border-color: rgb(98, 75, 100);
+  color: rgb(98, 75, 100);
+  font-family: 'Bradley Hand'; 
+}
+
+div.stRadio radio {
+  background-color: #d2d9e2;
+  border-color: rgb(98, 75, 100);
+  color: rgb(98, 75, 100);
+  font-family: 'Bradley Hand'; 
+}
+
+.stMarkdown h1 {
+  font-family: 'Big Caslon', serif;
+  display: flex;
+  justify-content: center;
+  color: rgb(98, 75, 100);
+}
+
+.stMarkdown h2, .stMarkdown h3 {
+  font-family: 'Big Caslon', serif;
+  display: flex;
+  justify-content: center;
+  color: rgb(98, 75, 100);
+}
+
+.stMarkdown h4 {
+  font-family: 'Big Caslon', serif;
+  display: flex;
+  justify-content: center;
+  color: rgb(92, 141, 227);
+}
+
+
+.stMarkdown h5, .stMarkdown h6 {
+  font-family: 'Big Caslon', serif;
+  display: flex;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+}
+
+code {
+  color: rgb(74, 74, 74);
+  background-color: rgb(198, 165, 209);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div[data-baseweb="select"] > div {
+    background-color: #e4cdeb;
+    border-color: #edf1f5;
+}
+
+div[role="listbox"] ul:hover {
+    background-color: #fccbe8;
+    border-color: #fccbe8;
+}
+
+label[data-baseweb="radio"] {
+    color: hotpink;
+    height: 100%;
+    padding: 0.1vh 0;
+}
+
+label[data-baseweb="radio"] div {
+  font-size: 24px;
+  color: rgb(98, 75, 100);
+  margin-left: 2vh;
+  font-family: 'Big Caslon';
+}
+
+
+
+
+
+
+
+
+
+
+
+
